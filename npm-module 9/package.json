@@ -1,0 +1,21 @@
+{
+  "name": "npm-module-9",
+  "version": "1.0.0",
+  "description": "my first npm project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Artem Melnik",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "nodemon": "^3.1.4"
+  }
+}
