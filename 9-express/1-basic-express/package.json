@@ -1,0 +1,13 @@
+{
+  "name": "1-basic-express",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Artem",
+  "license": "ISC",
+  "description": "express",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
